@@ -1,6 +1,6 @@
-# Amazon Clone
+# Eshop
 
-Full Stack Amazon Clone along with Admin Panel
+Online Shopping App along with Admin Panel
 
 ## Features
 - Email & Password Authentication
@@ -11,19 +11,11 @@ Full Stack Amazon Clone along with Admin Panel
 - Rating
 - Getting Deal of the Day
 - Cart
-- Checking out with Google/Apple Pay
-- Viewing My Orders
-- Viewing Order Details & Status
 - Sign Out
 - Admin Panel
     - Viewing All Products
     - Adding Products
     - Deleting Products
-    - Viewing Orders
-    - Changing Order Status
-    - Viewing Total Earnings
-    - Viewing Category Based Earnings (on Graph)
-
 
 ## Running Locally
 After cloning this repository, migrate to ```Eshop``` folder. Then, follow the following steps:
@@ -55,7 +47,3 @@ Then run the following commands to run your app:
 **Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
 
 **Client**: Flutter, Provider
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
